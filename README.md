@@ -15,7 +15,6 @@
   
  
   
-  
   <img align="right" alt="Tulio-pic" height="150" style="border-radius:50px;" src="https://centerrh.com.br/public/blog/c04e855d59deb53b3301d6d72e5a5bd7.png?width=676&height=676">
 </div>
   
