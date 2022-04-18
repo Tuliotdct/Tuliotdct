@@ -1,4 +1,4 @@
-## Hi, I'm Túlio Costa. Passionate about Data Science
+## Hi, I'm Túlio Costa. Passionate about Data Science and Data Analysis
 <div align="center">
   <a href="https://github.com/Tuliotdct">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tuliotdct&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
