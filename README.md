@@ -14,11 +14,7 @@
    <img align="center" alt="Rafa-Js" height="50" width="50" src="https://img.icons8.com/fluency/48/000000/visual-studio.png">
   
  
-  
-  <img align="right" alt="Tulio-pic" height="150" style="border-radius:50px;" src="https://centerrh.com.br/public/blog/c04e855d59deb53b3301d6d72e5a5bd7.png?width=676&height=676">
-</div>
-  
-  ##
+ 
  
 <div> 
 
